@@ -3,7 +3,7 @@
 ## 📌 Overview  
 This project performs **IPL data analysis and predictive modeling** using **Machine Learning** techniques. It extracts insights on player performance, match outcomes, and team strategies through **descriptive, predictive, and clustering-based analytics**.  
 
-![IPL Analysis](images/ipl_analysis.png)  
+![IPL Analysis](Images/ipl_analysis.png)  
 
 ## 🚀 Features  
 - **Descriptive Analysis**: Summarizing team and player performances using visualization techniques.  
@@ -23,14 +23,14 @@ This project performs **IPL data analysis and predictive modeling** using **Mach
 - **Top-performing players by awards and stats**  
 - **Batsman rankings by total career runs**  
 
-![Descriptive Analysis](images/descriptive_analysis.png)  
+![Descriptive Analysis](Images/descriptive_analysis.png)  
 
 ### 2️⃣ Predictive Modeling  
 - **Frequent Itemset Mining (Apriori Algorithm)**  
 - **Team winning chances prediction based on toss results**  
 - **IPL match prediction using classification models**  
 
-![Predictive Modeling](images/predictive_modeling.png)  
+![Predictive Modeling](Images/predictive_modeling.png)  
 
 ### 3️⃣ Machine Learning Models Used  
 - **Decision Tree Classification**  
